@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\UZAO\\Desktop\\GB\\Seminar7\\Seminars_C--master\\Seminars_C--master\\HW_7.csproj": {}
+    "D:\\УчёбаGB\\С# Seminars\\HW\\HW_7\\Seminars_C--master\\HW_7.csproj": {}
   },
   "projects": {
-    "C:\\Users\\UZAO\\Desktop\\GB\\Seminar7\\Seminars_C--master\\Seminars_C--master\\HW_7.csproj": {
+    "D:\\УчёбаGB\\С# Seminars\\HW\\HW_7\\Seminars_C--master\\HW_7.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\UZAO\\Desktop\\GB\\Seminar7\\Seminars_C--master\\Seminars_C--master\\HW_7.csproj",
+        "projectUniqueName": "D:\\УчёбаGB\\С# Seminars\\HW\\HW_7\\Seminars_C--master\\HW_7.csproj",
         "projectName": "HW_7",
-        "projectPath": "C:\\Users\\UZAO\\Desktop\\GB\\Seminar7\\Seminars_C--master\\Seminars_C--master\\HW_7.csproj",
-        "packagesPath": "C:\\Users\\UZAO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\UZAO\\Desktop\\GB\\Seminar7\\Seminars_C--master\\Seminars_C--master\\obj\\",
+        "projectPath": "D:\\УчёбаGB\\С# Seminars\\HW\\HW_7\\Seminars_C--master\\HW_7.csproj",
+        "packagesPath": "C:\\Users\\НПГ\\.nuget\\packages\\",
+        "outputPath": "D:\\УчёбаGB\\С# Seminars\\HW\\HW_7\\Seminars_C--master\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\UZAO\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\НПГ\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
